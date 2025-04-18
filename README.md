@@ -33,5 +33,10 @@ If needed, update the data source path to link with the Excel file.
 
 Explore insights using slicers and visualizations.
 
+## 📷 Preview
+
+![image](https://github.com/user-attachments/assets/3f6916f0-6834-4403-90b1-ce71ffc45770)
+
+
 
 
